@@ -9,7 +9,7 @@
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/122838052-9da59280-d2cb-11eb-992e-d85c3a288e88.jpg" style="max-width: 100%;"></img>
 </a>
 
 
@@ -22,7 +22,7 @@
 # Sobre o Projeto
 
 - Meu primeiro site desenvolvimento em 2000, apesar que já tinha outros projeto teste de site esse é o mais legal quando desenvolvi no fim da década de 90.
-- Projeto foi criado para testa recurso do html4, sua tags básicas, e funcionalidades básicas dos links. Esse site não responsivo.
+- Projeto foi criado para testa recurso do html4, sua tags básicas, e funcionalidades básicas dos links. Esse site não é responsivo.
 - IDE NotePad++
 
 
