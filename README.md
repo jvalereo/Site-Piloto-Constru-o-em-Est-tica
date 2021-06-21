@@ -9,7 +9,7 @@
 </a>
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="280" width ="380" src ="https://user-images.githubusercontent.com/25933386/122838052-9da59280-d2cb-11eb-992e-d85c3a288e88.jpg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="280" width ="280" src ="https://user-images.githubusercontent.com/25933386/122838052-9da59280-d2cb-11eb-992e-d85c3a288e88.jpg" style="max-width: 100%;"></img>
 </a>
 
 
