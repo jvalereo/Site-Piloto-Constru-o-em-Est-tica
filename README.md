@@ -21,9 +21,9 @@
 
 # Sobre o Projeto
 
-- Programa teste, Orientação ao Objetio simples e execulta o resultado na tela.
-- Projeto foi implemetado no  Console.
-- IDE Visual Studio
+- Meu primeiro site desenvolvimento em 2000, apesar que já tinha outros projeto teste de site esse é o mais legal quando desenvolvi no fim da década de 90.
+- Projeto foi criado para testa recurso do html4, sua tags básicas, e funcionalidades básicas dos links. Esse site não responsivo.
+- IDE NotePad++
 
 
 # Tecnologia Aplicada no Projeto
