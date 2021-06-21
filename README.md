@@ -30,13 +30,13 @@
 
 # Tecnologia Aplicada no Projeto
 
-- Bak-end
-- C#
+- Front-end
+- Html4
 
 # Como Executa o Projeto
 
 - Pode fazer o download e executa na sua IDE de preferencia
-- Obs: Dentro da subpastas obj/Debug , tem o programa executavel
+
 
 # Autor
 
