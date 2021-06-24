@@ -1,7 +1,7 @@
 # Layout
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="600" src ="https://user-images.githubusercontent.com/25933386/122837242-26bbca00-d2ca-11eb-9a26-304bce3dc4ee.PNG"></img>
+<img align="center"  alt="jonas-Layout" height ="400" width ="700" src ="https://user-images.githubusercontent.com/25933386/122837242-26bbca00-d2ca-11eb-9a26-304bce3dc4ee.PNG"></img>
 </a>
 
 ##
